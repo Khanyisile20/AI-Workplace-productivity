@@ -3,8 +3,8 @@
 An all-in-one AI-powered workplace productivity dashboard designed to eliminate repetitive cognitive work.
 
 ## 🚀 Live Demo
-**Live Website:** https://clever-work-suite.lovable.app
-*(Replace with your new Lovable link for this project)*
+**Live Website:** https://clever-work-aid.lovable.app
+
 
 ## ✨ Features (5 Tools)
 
